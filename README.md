@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=G'day%20mate!&fontColor=b5e2fa&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=G'day%20mate!&fontColor=b5e2fa&fontSize=90)
 
 ## 🪪 Introduction
 - name   : yeon
