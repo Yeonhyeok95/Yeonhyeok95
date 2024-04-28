@@ -16,10 +16,7 @@
 
 ## 🛠 Skills
 - Languages <br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=white">
 - Frameworks <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white">
