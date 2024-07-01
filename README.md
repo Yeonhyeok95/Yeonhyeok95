@@ -11,7 +11,7 @@
 - Lieutenant Jr.Grade at Korean Navy
 
 ## 📚 Projects
-- CRUD board
+- RESTful Board Application
 
 
 ## 🛠 Skills
